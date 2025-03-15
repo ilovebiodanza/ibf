@@ -20,8 +20,9 @@
 19
 20
 21
+eliminar.html
 ibf.txt
-index.html
+musics_codeTitleAuthor
 
 ./01:
 IBF01 - 01 - The Beatles - Free As a Bird.mp3
@@ -319,7 +320,6 @@ IBF13 - 19 - Merrill, Helen - Summertime.mp3
 IBF13 - 20 - Merrill, Helen - I See Your Face Before Me.mp3
 IBF13 - 21 - Merrill, Helen - Angel Eyes.mp3
 IBF13 - 22 - Merrill, Helen - I'll Be Around.mp3
-IBF17 - 13 - OST Empire Of The Sun (Ambrosian Junior Choir) - Suo Gan.mp3
 
 ./14:
 IBF14 - 01 - de Moraes&Creuza&Toquinho - Samba em preludio.mp3
@@ -355,7 +355,6 @@ IBF15 - 09 - OST Chamanka (Korzinski, Andrzej) - Zdrowas Mario.mp3
 IBF15 - 10 - Montez, Chris - The More I See You.mp3
 IBF15 - 11 - Supertramp - Crime Of The Century [Part, long].mp3
 IBF15 - 12 - Vivaldi (The Royal Vivaldi Symphony) - Presto - Concerto 'L'estate' in sol minore - 3 (Le quattro stagioni Op.8-2, RV 315).mp3
-IBF15 - 13 - Igor  Borodin - Danze Polovesiane del Principe.mp3
 IBF15 - 13 - Igor Borodin - Danze Polovesiane del Principe.mp3
 IBF15 - 14 - Beethoven (William Bowles & Royal Festival Orchestra) - Allegro con brio [Part] - Sinfonie 5 c-moll op.67 - 1.mp3
 IBF15 - 15 - Vivaldi - Argo La Primavera.mp3
@@ -399,7 +398,6 @@ IBF17 - 10 - Kitaro - Caravansary.mp3
 IBF17 - 11 - Metheny, Pat & Mays, Lyle - September Fifteenth (dedicated to Bill Evans) [Part].mp3
 IBF17 - 12 - Mahler (Anton Nanut & Radio-Symphony Orchestra Lubljana) - Adagietto [Part] - Sinfonie 5 cis-moll - 4.mp3
 IBF17 - 13 - Ambrosia Junior Choir - Suo Gan Empire Of The Sun.mp3
-IBF17 - 13 - Suo Gan (Vocal Ambrosian Junior Choir) - OST Empire Of The Sun.mp3
 IBF17 - 14 - Wiese, Klaus - el-HADRA - The Mystic Dance [Part].mp3
 IBF17 - 15 - Schubert (Miklos Perenyi & Bartok Quartet) - Adagio - Streichquintett in C-Dur - 2, op.post.163 D 956 [Part].mp3
 IBF17 - 16 - Gounod (Henrique Simonetti & Orquestra de Camera RGE) - Ave Maria (after Johann Sebastian Bach).mp3
@@ -411,7 +409,6 @@ IBF18 - 02 - Brahms - Selig sind, die da leid tragen [Part] - Ein deutsches Requ
 IBF18 - 03 - Vivaldi - Largo Conc. No7.mp3
 IBF18 - 04 - OST 2001 Odyssee de l'espace - Prelude Electronique.mp3
 IBF18 - 05 - Ravel, Maurice - Daphnis et ChloE - Danse lente et  et mystErieuse des Nymphes .MP3
-IBF18 - 05 - Ravel, Maurice & Daphnis et ChloE - Danse lente et  et mystErieuse des Nymphes.MP3
 IBF18 - 06 - The Harmonic Choir - Rainbow Voice.mp3
 IBF18 - 07 - OST Chariots Of Fire (Vangelis) - Eric's Theme.mp3
 IBF18 - 08 - Sibelius (Herbert von Karajan & Berliner Philharmoniker) - Finlandia (Symphonic poem) op. 26 [End Part].mp3
@@ -422,8 +419,8 @@ IBF18 - 12 - Fanshawe, David - Song Of Lamentation [Part] {End Part of 'Sanctus.
 IBF18 - 13 - Pink Floyd - Shine On You Crazy Diamond, Pts.1-5 [Part 2].mp3
 IBF18 - 14 - Beethoven (Libor Pesek & Slovak Philharmonic Orchestra) - Allegro [Part] - Sinfonie 6 F-Dur op.68 - 4 (Gewitter-Sturm).mp3
 IBF18 - 15 - Gluck (John Eliot Gardiner & English Baroque Soloists) - Andante - Ballet Don Juan - 3.mp3
-IBF18 - 16 - Vivaldi, Antonio - Largo Concerto da camera in Re Maggiore RV 93 - 2.MP3
-IBF18 - 17 - Mozart - Andante - Klavierkonzert 21.MP3
+IBF18 - 16 - Vivaldi, Antonio - Largo Concerto da camera in Re Maggiore RV 93 2.mp3
+IBF18 - 17 - Mozart - Andante, Klavierkonzert 21.mp3
 
 ./19:
 IBF19 - 01 - Guem - Presence.mp3
@@ -441,7 +438,7 @@ IBF19 - 12 - Kitaro - Sundance.mp3
 IBF19 - 13 - Bizet, Georges - Les Voici, les voici, voici la quadrille.MP3
 IBF19 - 14 - Fitzgerald, Ella - This Girl's In Love With You.mp3
 IBF19 - 15 - Cumbo, Jorge ~ Vitale, Lito ~ Gonzales, Lucho  - Vidala del cuculi.mp3
-IBF19 - 16 - Giuliani, Mauro - Andantino Siciliano Concerto No 1  per chitarra e archi in La Maggiore op 30-2 .MP3
+IBF19 - 16 - Giuliani, Mauro - Andantino Siciliano Concerto No 1 per chitarra e archi in La Maggiore op 30 2.mp3
 IBF19 - 17 - Mourashkin, Boris - Joy.mp3
 IBF19 - 18 - OST Chariots Of Fire (Vangelis) - Abraham's Theme.mp3
 IBF19 - 19 - Mascagni (Herbert von Karajan & Coro e Orchestra del Teatro alla Scala) - Cavalleria Rusticana, XVIII. Intermezzo sinfonico.mp3
@@ -470,7 +467,7 @@ IBFC21 - 01 - The Beatles - Hello, Goodbye.mp3
 IBFC21 - 02 - Beethoven (Andre Cluytens & Berliner Philharmoniker) - Freude (Hymne a la joie) [Part] - Sinfonie 9 d-moll, op.125 - 4.mp3
 IBFC21 - 03 - Light, Enoch & The Light Brigade - Charleston.mp3
 IBFC21 - 04 - Barenboim&Mederos&Console - El Dia en Que me Quieras.mp3
-IBFC21 - 05 - Debussy, Claude - Dialogue du vent et de la mer.MP3
+IBFC21 - 05 - Debussy, Claude - Dialogue du vent et de la mer.mp3
 IBFC21 - 06 - Evora, Cesaria - Carnaval de Sao Vicente.mp3
 IBFC21 - 07 - Flack, Roberta - When You Smile.mp3
 IBFC21 - 08 - Jackson, Mahalia - When The Saints Go Marchin' In.mp3
